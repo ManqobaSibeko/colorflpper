@@ -1,0 +1,54 @@
+body{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background: antiquewhite;
+}
+
+nav{
+    display: flex;
+    background:rgb(236, 232, 223);
+    background:
+
+    
+    text-transform: uppercase;
+}
+
+.logo{
+    position: relative;
+    float: left;
+    margin: 0 50px ;
+}
+
+.nav-links{
+
+    display: inline-block;
+    list-style: none;
+}
+li{
+    display: inline-block;
+    margin: 0 50px;
+    position: relative;
+    left: auto;
+}
+main{
+
+}
+
+main h2{
+    border: 10px;
+    color: aliceblue;
+    padding: 10px 60px;
+}
+
+button{
+    
+    padding: 10px 60px;
+    border-radius:10px ;
+    background: transparent;
+    border: 4px black solid;
+    font-weight: bolder;
+    
+}
+
+
